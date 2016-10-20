@@ -1,2 +1,6 @@
 # hello-world
-This is my first repository
+
+Ssup GitHub!
+
+I'm following your tutorials!
+This is my second branch!
